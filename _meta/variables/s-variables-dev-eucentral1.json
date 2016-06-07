@@ -1,0 +1,6 @@
+{
+  "region": "eu-central-1",
+  "resourcesStackName": "hilma-api-serverless-dev-r",
+  "iamRoleArnLambda": "arn:aws:iam::714374170300:role/hilma-api-serverless-dev-r-IamRoleLambda-1VAEOTGPKWKW4",
+  "apiGatewayApi": "hilma-api-serverless"
+}

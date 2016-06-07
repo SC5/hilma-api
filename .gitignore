@@ -40,9 +40,6 @@ node_modules
 admin.env
 .env
 
-#Ignore _meta folder
-_meta
-
 node_modules
 
 # Optional npm cache directory
