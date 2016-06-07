@@ -1,0 +1,35 @@
+{
+  "name": "hilma-api-serverless",
+  "version": "0.5.4",
+  "description": "A REST API project template for serverless 0.5",
+  "author": {
+    "name": "Mikael Puittinen",
+    "url": "https://sc5.io"
+  },
+  "contributors": [
+    {
+      "name": "Eetu Tuomala",
+      "url": "https://sc5.io"
+    }
+  ],
+  "license": "MIT",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SC5/sc5-serverless-boilerplate.git"
+  },
+  "dependencies": {
+    "bluebird": "^3.4.0",
+    "serverless-cors-plugin": "0.4",
+    "serverless-mocha-plugin": "^0.5.3",
+    "serverless-optimizer-plugin": "2.3.0"
+  },
+  "devDependencies": {
+    "aws-sdk": "2.2.48"
+  },
+  "bugs": {
+    "url": "https://github.com/SC5/sc5-serverless-boilerplate/issues"
+  },
+  "homepage": "https://github.com/SC5/sc5-serverless-boilerplate",
+  "scripts": {}
+}
